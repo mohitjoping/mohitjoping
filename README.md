@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **ProActive**
 
-- 🤝 I’m looking to connect with people who are intrested in
+- 🤝 I’m looking to connect with people who are interested in
   > - Web Development 
   > - FrontEnd 
   > - BackEnd
