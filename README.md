@@ -24,9 +24,6 @@
 
 - 📫 How to reach me **mohitjoping1@gmail.com**</div>
 
-  ##  #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@mohitjoping176040/30-nites-of-code)  
-  ![@mohitjoping176040 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mohitjoping)</div>
 
 
 
