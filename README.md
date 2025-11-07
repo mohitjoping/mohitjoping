@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6b078b&center=true&vCenter=true&width=435&lines=DevOps+Guy;Open-Source;Development;"></a>
 </p>
-<div align="center">
+
   [![](https://visitcount.itsvg.in/api?id=mohitjoping&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🤝 I’m looking to connect with people who are interested in
@@ -20,7 +20,6 @@
 
  ✉️ How to reach me **mohitjoping1@gmail.com**</div>
 
-</div>
 
 
 
