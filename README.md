@@ -76,7 +76,7 @@
     </thead>
     <tr>
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/react-icon.svg"/> </td>
-      <td align="center" width=110> <img src="https://cpwebassets.codepen.io/assets/packs/tailwind-df31d14b8c3a2386ca726ca2a4bc12db.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img src="./tailwind.png" alt="icon" /> </td>
       <td align="center" width=110> <img src="./nextjs.png" alt="icon"  /> </td>
       <td align="center" width=110> <img src="./expressjs.webp" alt="icon" /> </td>
       <td align="center" width=110> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="icon" width="65" height="65" /> </td>
@@ -100,7 +100,7 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110 > <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110><svg fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3" viewBox="0 0 138 26" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M15 8a7 7 0 1 0 0 10m7-8.7L33 2l11 7.3v7.4L33 24l-11-7.3zm0 0 11 7.4 11-7.4m0 7.4L33 9.3l-11 7.4M33 2v7.3m0 7.4V24M52 6h5a7 7 0 0 1 0 14h-5zm28 0h-9v14h9m-9-7h6m11 1h6a4 4 0 0 0 0-8h-6v14m26-14h-9v14h9m-9-7h6m11 7V6l11 14V6"></path></svg><path d="M15 8a7 7 0 1 0 0 10m7-8.7L33 2l11 7.3v7.4L33 24l-11-7.3zm0 0 11 7.4 11-7.4m0 7.4L33 9.3l-11 7.4M33 2v7.3m0 7.4V24M52 6h5a7 7 0 0 1 0 14h-5zm28 0h-9v14h9m-9-7h6m11 1h6a4 4 0 0 0 0-8h-6v14m26-14h-9v14h9m-9-7h6m11 7V6l11 14V6"></path></svg></td>
+      <td align="center" width=110><svg fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3" viewBox="0 0 138 26" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M15 8a7 7 0 1 0 0 10m7-8.7L33 2l11 7.3v7.4L33 24l-11-7.3zm0 0 11 7.4 11-7.4m0 7.4L33 9.3l-11 7.4M33 2v7.3m0 7.4V24M52 6h5a7 7 0 0 1 0 14h-5zm28 0h-9v14h9m-9-7h6m11 1h6a4 4 0 0 0 0-8h-6v14m26-14h-9v14h9m-9-7h6m11 7V6l11 14V6"></path></svg></td>
     </tr>
     <tr> 
       <td align="center" width=110>Figma</td>
